@@ -1,6 +1,10 @@
-Edit the README.md file so that it contains some information about the purpose of the repo, so that other people who view your repo on GitHub know why you made it. Your README.md file needs to demonstrate at least the following Markdown syntax (you can do more if you want!):
+# Welcome to my Stats220 Repository! 
 
-use of two different levels of headers
-use of two different types of bullet points (ordered or unordered)
-use of bold and italics
-use of links to other websites
+This repository is created for the purpose of the *Statistics 220* course, and will contain materials related to data acquisitions, processing and storage. 
+
+## Contents
+- Useful resources and links
+- Memes and GIFS
+
+### Quick Links
+- [Course Outline](https://courseoutline.auckland.ac.nz/dco/course/STATS/220/1213)
