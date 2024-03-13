@@ -1,4 +1,4 @@
-# Welcome to my Stats220 Repository! 🧮
+# Welcome to my Stats220 Repository! 👩🏻‍💻
 
 This repository is created for the purpose of the ***Statistics 220*** course, and will contain materials related to data technologies, including aspects such as data acquisitions, processing and storage. 
 
