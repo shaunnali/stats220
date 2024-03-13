@@ -11,6 +11,5 @@ This repository is created for the purpose of the ***Statistics 220*** course, a
 ### Quick Links 🔗
 1. [Course Outline](https://courseoutline.auckland.ac.nz/dco/course/STATS/220/1213)
 2. [Procrastinating?](https://theuselessweb.com/)
-
-
+   #
 Do you also study Stats220? Feel free to ⭐️ my repo and connect with me :) 
